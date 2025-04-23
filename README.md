@@ -1,4 +1,6 @@
 # Adaptive Reserving with CVaR-Constrained RL
+**Paper:** https://arxiv.org/abs/2504.09396
+**Paper**: [arXiv:2504.09396](https://arxiv.org/abs/2504.09396)
 
 This repository implements the RL-CVaR framework from  
 "Adaptive Insurance Reserving with CVaR-Constrained Reinforcement Learning under Macroeconomic Regimes"  
@@ -20,7 +22,7 @@ adaptive_reserving_rl/
 │   └── othliab_pos.csv
 ├── notebooks/
 │   ├── rl_cvar_reserving.ipynb
-│   └── training.ipynb
+│   └── developing.ipynb
 └── src/
     ├── __init__.py
     ├── env.py
