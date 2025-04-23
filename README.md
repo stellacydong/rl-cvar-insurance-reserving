@@ -35,7 +35,7 @@ adaptive_reserving_rl/
   Pre-processed Workers’ Compensation and Other Liability datasets.
 - **notebooks/**  
   - `rl_cvar_reserving.ipynb`: end-to-end demo (load, train, evaluate, plot).  
-  - `u3.ipynb`: your original notebook.  
+  - `developing.ipynb`: original notebook.  
 - **src/**  
   - `__init__.py`: package initializer.  
   - `env.py`: custom Gymnasium environment for CVaR penalized reserving.  
